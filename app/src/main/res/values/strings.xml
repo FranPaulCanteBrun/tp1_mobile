@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App_TP1</string>
+    <string name="sin_viewmodel_0">Sin ViewModel: 0</string>
+    <string name="con_viewmodel_0">Con ViewModel: 0</string>
+</resources>
